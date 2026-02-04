@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For My Valentine ❤️</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ff758c, #ff7eb3);
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: white;
+            height: 100vh;
+        }
+        h1 {
+            margin-top: 100px;
+            font-size: 50px;
+        }
+        p {
+            font-size: 22px;
+        }
+        button {
+            background: red;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 20px;
+            border-radius: 30px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background: darkred;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>❤️ Hey My Love ❤️</h1>
+    <p>
+        Tum meri zindagi ka sabse beautiful part ho 💖  
+        Tumhare bina sab adhoora lagta hai 🌹
+    </p>
+
+    <h2>Will you be my Valentine? 💍</h2>
+
+    <button onclick="alert('Yayyy! I Love You So Much ❤️')">
+        YES ❤️
+    </button>
+
+</body>
+</html>
